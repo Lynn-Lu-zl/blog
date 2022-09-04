@@ -101,8 +101,8 @@ upload:
   oss:
     url: https://bishestore.oss-cn-heyuan.aliyuncs.com/
     endpoint: oss-cn-heyuan.aliyuncs.com
-    accessKeyId: LTAI5t6HWEsvgCVUyFfqabz3
-    accessKeySecret: DSXGpyWkdhXtfZFHPEW9SgiZtO6Yot
+    accessKeyId:
+    accessKeySecret:
     bucketName: bishestore
   cos:
     url: http://Bucket域名/

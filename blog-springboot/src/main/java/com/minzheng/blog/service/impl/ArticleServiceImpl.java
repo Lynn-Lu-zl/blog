@@ -137,7 +137,7 @@ public class ArticleServiceImpl extends ServiceImpl<ArticleDao, Article> impleme
             Integer likeCount = (Integer) likeCountMap.get(articleBackDTO.getId().toString());
             articleBackDTO.setLikeCount(likeCount);
         });
-        importDataIntoES();
+        //importDataIntoES();
         return new PageResult<>(articleBackDTOList, countArticleBacks);
     }
 
