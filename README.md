@@ -1,5 +1,17 @@
 # blog
-基于SpringBoot + Vue 开发的前后端分离博客，采用SpringSecurity进行权限管理，ElasticSearch全文搜索，支持码云第三方登录、发布说说等功能。
+基于SpringBoot + Vue 开发的前后端分离博客，采用SpringSecurity进行权限管理，ElasticSearch全文搜索，支持码云第三方登录、发布说说等功能
+
+开源地址：
+
+[Lynn-Lu-zl/blog: 基于SpringBoot + Vue 开发的前后端分离博客，采用SpringSecurity进行权限管理，ElasticSearch全文搜索，支持码云第三方登录、发布说说等功能。 (github.com)](https://github.com/Lynn-Lu-zl/blog)
+
+上线地址：
+
+前台：http://124.71.220.35/
+
+后台：http://124.71.220.35:81
+
+后台测试账号：test@qq.com，密码：123456
 
 
 
@@ -361,7 +373,6 @@ docker run --name nginx --restart=always -p 80:80 -p 81:81 -p 82:82 -p 83:83 -d 
 ![Snipaste_20220905_032736.png](http://124.71.220.35:83/articles/43e9d5746b276e0df3ce7988596561b3.png)
 
 ![Snipaste_20220905_044238.png](http://124.71.220.35:83/articles/72323b7f209338ad26989f93ba870989.png)![Snipaste_20220905_044247.png](http://124.71.220.35:83/articles/c349aeed8edf10ebe4b6ba23c4fb050d.png)![Snipaste_20220905_044255.png](http://124.71.220.35:83/articles/48409ac156ff2e522eff4af0f53efaa7.png)![Snipaste_20220905_044308.png](http://124.71.220.35:83/articles/98fd8413f67657f55bc6f86a40996852.png)
-
 
 后台：你的IP:81
 测试账号：test@qq.com，密码：123456
